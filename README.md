@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**6ixty4/6ixty4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I am  Amarachi Vincent #
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a data analyst with experience in extraction, transformation and visualization of complex datasets
+
+
+my tools include:
+* Microsoft excel
+* Microsoft powerbi
+* SQL
+* Python
+
+
+
+
+Some of my portfolio works are:
+
+* customer churn dashboard
+* sales analysis dashboard
+
+
+
+Contact Me:
+
+* amarachivincent@gmail.com
+* amarachi-analytics@github.com
