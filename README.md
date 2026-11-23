@@ -1,6 +1,6 @@
 
 
-# Hi, I am  Amarachi Vincent #
+# Hi, I am  Franklin Oliver#
 
 I am a data analyst with experience in extraction, transformation and visualization of complex datasets
 
@@ -23,5 +23,4 @@ Some of my portfolio works are:
 
 Contact Me:
 
-* amarachivincent@gmail.com
-* amarachi-analytics@github.com
+* franklin.34556@gmail.com
